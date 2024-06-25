@@ -15,8 +15,8 @@ This code enables data to be entered manually into the table and data to be impo
  - Two buttons are defined: "Import data" and "Export data", which are identified by their id attributes (import_Files_btn and export_Files_btn).
 
    ```
-    &lt;button id="import_Files_btn"&gt;Import data&lt;/button&gt;
-    &lt;button id="export_Files_btn"&gt;Export data&lt;/button&gt;
+    <button id="import_Files_btn">Import data</button>
+    <button id="export_Files_btn">Export data</button>
    ```
 
 #### 1. Export function:
