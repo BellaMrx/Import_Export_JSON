@@ -70,7 +70,7 @@ This code enables data to be entered manually into the table and data to be impo
     document.body.removeChild(a);
    ```
 
-- Converts the data array to JSON, creates a Blob object from it and generates a URL. A temporary `<a></a>` element is created to allow the file to be downloaded and is removed after the click.
+- Converts the data array to JSON, creates a Blob object from it and generates a URL. A temporary `<a>` element is created to allow the file to be downloaded and is removed after the click.
 
  #### 2. Import function:
  ##### Add event listener:
