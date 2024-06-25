@@ -11,7 +11,7 @@ This code enables data to be entered manually into the table and data to be impo
  - Each cell (&lt;td&gt;) is provided with contenteditable="true" so that users can enter data directly.
 
 
-### 3. JavaScript:
+### 3. JavaScript (script.js):
  - Two buttons are defined: "Import data" and "Export data", which are identified by their id attributes (import_Files_btn and export_Files_btn).
 
 #### 1. Export function:
