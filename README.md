@@ -14,6 +14,11 @@ This code enables data to be entered manually into the table and data to be impo
 ### 3. JavaScript (script.js):
  - Two buttons are defined: "Import data" and "Export data", which are identified by their id attributes (import_Files_btn and export_Files_btn).
 
+   ```
+    &lt;button id="import_Files_btn"&gt;Import data&lt;/button&gt;
+    &lt;button id="export_Files_btn"&gt;Export data&lt;/button&gt;
+   ```
+
 #### 1. Export function:
 ##### Add event listener:
  - An event listener for the export button is added, which is triggered when clicked.
