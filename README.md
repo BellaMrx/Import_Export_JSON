@@ -8,7 +8,7 @@ This code enables data to be entered manually into the table and data to be impo
 
 ### 2. Table:
  - A table (`<table>`) with three columns (last name, first name, e-mail) and three editable rows is defined.
- - Each cell (`<td>`) is provided with contenteditable="true" so that users can enter data directly.
+ - Each cell (`<td>`) is provided with `contenteditable="true"` so that users can enter data directly.
 
 
 ### 3. JavaScript (script.js):
