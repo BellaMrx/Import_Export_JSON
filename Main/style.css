@@ -1,11 +1,11 @@
 /* Styling of the table */
 table {
-    width: 50%;
-    margin: 0 auto;
-    /* border-collapse: collapse; */
+  width: 50%;
+  margin: 0 auto;
+  /* border-collapse: collapse; */
 }
-  table, th, td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: left;
+table, th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
 }
