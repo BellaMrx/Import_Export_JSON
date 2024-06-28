@@ -1,6 +1,8 @@
 ## Import/Export data with JSON
 This code enables data to be entered manually into the table and data to be imported and exported in JSON format.
 
+The complete code can be found in the *"Main"* folder.
+
 ### 1. HTML structure (index.html) and styling (style.css):
  - The `<!DOCTYPE html>` tag defines the document type and the version of HTML.
  - In the <head> area, the document is provided with metadata, including the character encoding (`<meta charset="UTF-8">`) and the view configuration for mobile devices (`<meta name="viewport" content="width=device-width, initial-scale=1.0">`).
